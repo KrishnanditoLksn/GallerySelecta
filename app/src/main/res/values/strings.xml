@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gallerio</string>
+    <string name="gallery">Gallery\n</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="camera_x">"Camera X "</string>
+    <string name="empty_warning">Empty String Warning</string>
+</resources>
